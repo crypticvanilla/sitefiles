@@ -11,6 +11,20 @@
     "href": "index.html",
     "title": "Nishanth Krishnan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Nishanth Krishnan is a medical student at the University of California, San Francisco."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nishanth Krishnan",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Francisco | San Francisco, CA MD Program | June 2021 - Expcted May 2026\nYale University | New Haven, CT B.S. Intensive in Molecular, Cellular, and Developmental Biology | August 2017 - May 2021"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Nishanth Krishnan",
+    "section": "Experience",
+    "text": "Experience\nResearch - Department of Neurological Surgery"
   }
 ]
