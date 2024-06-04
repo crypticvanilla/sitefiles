@@ -1,6 +1,6 @@
 ---
 title: "Nishanth Krishnan"
-image: Headshot.png
+image: Headshot5.png
 toc: false
 about: 
   template: trestles
@@ -13,25 +13,17 @@ about:
       href: https://x.com/_NKrishnan_
 ---
 
-
-Nishanth Krishnan is a medical student at the University of California, San Francisco.
-
+**Nishanth Krishnan is a medical student at the University of California, San Francisco.**
 
 ## Education
 
+**University of California, San Francisco** \| San Francisco, CA \| MD Program, June 2021 - May 2026 (Expected)
 
-University of California, San Francisco | San Francisco, CA
-MD Program | June 2021 - Expcted May 2026
-
-Yale University | New Haven, CT
-B.S. Intensive in Molecular, Cellular, and Developmental Biology | August 2017 - May 2021
-
+**Yale University** \| New Haven, CT \| B.S. Intensive in Molecular, Cellular, and Developmental Biology, August 2017 - May 2021
 
 ## Experience
 
-
 Research - Department of Neurological Surgery
----
 
 ```         
 ```
